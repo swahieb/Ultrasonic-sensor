@@ -14,7 +14,6 @@ You can also view the real-time distance readings in the Arduino IDE Serial Moni
 ---
 
 ## ⚙️ Components
-- Arduino Uno R3 (or compatible board)  
 - HC-SR04 Ultrasonic Sensor  
 - Active Buzzer (2-pin)  
 - jumper wires  
